@@ -6,7 +6,7 @@ Hi there I'm Pushkar 👋
 <a href="https://x.com/pushkar_chau07/">X</a>
 ## Tech stacks:
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,discord)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css)](https://skillicons.dev)
 
 <!--
 **Pushkar-Chaudhary/Pushkar-Chaudhary** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
