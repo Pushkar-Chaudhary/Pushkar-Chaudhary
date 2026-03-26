@@ -1,6 +1,6 @@
 Hi there I'm Pushkar 👋
 ## Connect with me.
-<a href="https://www.instagram.com/pushkarchau_/">Instagram</a>
+<a href="https://www.instagram.com/pushkar_ch07/">Instagram</a>
 <a href="https://www.facebook.com/pushkar.chaudhary.37454/">Facebook</a>
 <a href="https://pushkar-chaudhary.vercel.app/">portfolio</a>
 <a href="https://x.com/pushkar_chau07/">X</a>
