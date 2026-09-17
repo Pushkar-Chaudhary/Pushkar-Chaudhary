@@ -1,5 +1,6 @@
 ## Wakatime
 [![wakatime](https://wakatime.com/badge/user/bf434ed0-2f6c-46e7-ae66-53b01d7fad3d.svg)](https://wakatime.com/@bf434ed0-2f6c-46e7-ae66-53b01d7fad3d)
+![](https://komarev.com/ghpvc/?username=Pushkar-Chaudhary)
 # 💫 About Me:
 Currently a frontend developer learning backend from Nodejs.
 
