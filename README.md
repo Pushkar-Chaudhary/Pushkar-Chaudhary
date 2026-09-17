@@ -1,7 +1,7 @@
 ## Wakatime
 [![wakatime](https://wakatime.com/badge/user/bf434ed0-2f6c-46e7-ae66-53b01d7fad3d.svg)](https://wakatime.com/@bf434ed0-2f6c-46e7-ae66-53b01d7fad3d)
 # 💫 About Me:
-Cureently a frontend developer learning backend from Node.js
+Currently a frontend developer learning backend from Nodejs.
 
 
 ## 🌐 Socials:
