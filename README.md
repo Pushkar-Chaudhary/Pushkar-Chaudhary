@@ -2,7 +2,7 @@
 [![wakatime](https://wakatime.com/badge/user/bf434ed0-2f6c-46e7-ae66-53b01d7fad3d.svg)](https://wakatime.com/@bf434ed0-2f6c-46e7-ae66-53b01d7fad3d)
 ![](https://komarev.com/ghpvc/?username=Pushkar-Chaudhary)
 # 💫 About Me:
-Full Stack Dev.
+Aspiring Full Stack Dev.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/pushkar.chau) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/anik-chy) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/pushkar_chau07) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pushkarchaudhary256@gmail.com) 
